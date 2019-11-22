@@ -1,0 +1,16 @@
+﻿# npm debug log
+npm-debug.log*
+
+#專案依賴關係
+node_modules
+
+# OSX 資料夾屬性
+.DS_Store
+
+# 暫時性檔案
+*.tmp
+*~
+#all log
+*.log
+dist
+public/dist
